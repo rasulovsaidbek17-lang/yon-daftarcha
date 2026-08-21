@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "vite --host",
-  "build": "vite build"
-},
-
+    "dev": "vite --host",
+    "build": "vite build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rasulovsaidbek17-lang/yon-daftarcha.git"
@@ -21,6 +20,7 @@
   "homepage": "https://github.com/rasulovsaidbek17-lang/yon-daftarcha#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.112.3",
+    "lucide-react": "^1.33.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "vite": "^8.2.2"
