@@ -1,0 +1,27 @@
+{
+  "name": "xarajat-nazoratchisi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite --host"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasulovsaidbek17-lang/yon-daftarcha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasulovsaidbek17-lang/yon-daftarcha/issues"
+  },
+  "homepage": "https://github.com/rasulovsaidbek17-lang/yon-daftarcha#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "vite": "^8.2.2"
+  }
+}

@@ -1331,3 +1331,12 @@ export default function App() {
     </div>
   );
 }
+import ReactDOM from "react-dom/client";
+
+// Предполагаем, что ваш главный компонент внутри этого файла называется ChontakDaftari
+// Если у вас функция называется по-другому, замените слово ChontakDaftari ниже на ваше название
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <ChontakDaftari /> 
+  </React.StrictMode>
+);
